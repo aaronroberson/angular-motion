@@ -1,7 +1,7 @@
 // Package metadata file for Meteor.js
 var packageName = 'aaronroberson:angular-motion';
 var where = 'client';
-var version = '0.4.3';
+var version = '0.4.4';
 var summary = 'AngularMotion - Fancy CSS3 animations for AngularJS 1.2+';
 var gitLink = 'https://github.com/aaronroberson/angular-motion';
 var documentationFile = 'README.md';
